@@ -20,4 +20,9 @@ Complements :
 ----
 - Complements are used in digital romputem lo simplify the submaion operation and for  logical manipulation. Simplifying operations leads lo simpler, less expensive circuits to implement the operations
 - there are two types of complements for each base r system : the radix complement and the diminished radix complement --> r's complement and the (r-1)'s complement
-- thus , 1's and 2's complement for binary numbers and 9's and 10's complement for the decimal numbers 
+- thus , 1's and 2's complement for binary numbers and 9's and 10's complement for the decimal numbers
+
+
+Radix Complement :
+----
+
