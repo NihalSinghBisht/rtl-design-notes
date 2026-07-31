@@ -25,4 +25,46 @@ Complements :
 
 Radix Complement :
 ----
+- the r's complement of an n digit number in N in base r is given by r^n - N , N!=0 and is O for N=0 
+- we note that the r's complement is obtained by adding 1 to the (r - 1)'s complement
+
+- a short trick ( img 4 )
+
+Subtraction with complements : 
+----
+using the r's complement 
+image 5
+
+example : image 6 
+
+- When subtracting with complements, we recognize the negative answer from the absence of the end carry and the complemented result
+
+
+Using the (r-1)'s complement 
+- Since (r-)'s complement is one less than the r's complement and because of this the result is one less than the correct difference when an end carry occurs !
+Removing the end carry aod
+adding I to the sum is refd to as end-around carry
+
+- if theres no end carry : image 7
+
+
+Signed Binary Numbers : 
+----
+- To represent negative numbers we need a notation for the negative values
+- It is customary to represent the sign with a bit placed in the leftmost position of the number. The convention is to make the sign bit 0 for positive and 1 for negative
+- USER DECIDES if the number is signed or unsigned !!
+- THERE ARE 3 CONVENTIONS
+    - signed magnitude
+    - signed complement (1's)
+    - signed complement (2's)
+ 
+- Signed complement method :
+   - In this system, a negative number is indicated by its complement.
+     Whereas the signed-magnitude system negates a number by changing its sign, the             signed-complement system negates a number by taking its complement
+   - The signed-complement system can use either the 1's or the 2's complement,
+     but the 2's complement is the most common
+   - eg : image 8 
+
+
+
 
