@@ -49,6 +49,7 @@ Removing the end carry aod
 adding I to the sum is refd to as end-around carry
 
 - if theres no end carry : image 7
+- ![image](https://github.com/NihalSinghBisht/rtl-design-notes/blob/main/01-Digital-Electronics/Digital%20Systems%20and%20Binary%20Numbers/image7.png?raw=true)
 
 
 Signed Binary Numbers : 
@@ -66,7 +67,8 @@ Signed Binary Numbers :
      Whereas the signed-magnitude system negates a number by changing its sign, the             signed-complement system negates a number by taking its complement
    - The signed-complement system can use either the 1's or the 2's complement,
      but the 2's complement is the most common
-   - eg : image 8 
+   - eg : image 8
+   - ![image](https://github.com/NihalSinghBisht/rtl-design-notes/blob/main/01-Digital-Electronics/Digital%20Systems%20and%20Binary%20Numbers/image8.png?raw=true)
 
 
 
