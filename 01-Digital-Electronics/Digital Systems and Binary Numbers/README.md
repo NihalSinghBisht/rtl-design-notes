@@ -39,7 +39,7 @@ image 5
 ![image](https://github.com/NihalSinghBisht/rtl-design-notes/blob/main/01-Digital-Electronics/Digital%20Systems%20and%20Binary%20Numbers/image5.png?raw=true)
 
 example : image 6 
-
+![image](https://github.com/NihalSinghBisht/rtl-design-notes/blob/main/01-Digital-Electronics/Digital%20Systems%20and%20Binary%20Numbers/image6.png?raw=true)
 - When subtracting with complements, we recognize the negative answer from the absence of the end carry and the complemented result
 
 
