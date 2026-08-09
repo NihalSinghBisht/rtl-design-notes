@@ -29,6 +29,7 @@ Radix Complement :
 - we note that the r's complement is obtained by adding 1 to the (r - 1)'s complement
 
 - a short trick ( img 4 )
+- ![image](https://github.com/NihalSinghBisht/rtl-design-notes/blob/main/01-Digital-Electronics/Digital%20Systems%20and%20Binary%20Numbers/image4.png?raw=true)
 
 
 Subtraction with complements : 
