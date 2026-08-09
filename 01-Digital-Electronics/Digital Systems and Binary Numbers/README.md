@@ -36,6 +36,7 @@ Subtraction with complements :
 ----
 using the r's complement 
 image 5
+![image](https://github.com/NihalSinghBisht/rtl-design-notes/blob/main/01-Digital-Electronics/Digital%20Systems%20and%20Binary%20Numbers/image5.png?raw=true)
 
 example : image 6 
 
