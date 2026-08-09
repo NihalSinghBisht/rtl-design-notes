@@ -18,17 +18,18 @@ series and adding all the terms
 
 Complements :
 ----
-- Complements are used in digital romputem lo simplify the submaion operation and for  logical manipulation. Simplifying operations leads lo simpler, less expensive circuits to implement the operations
+- Complements are used in digital computer to simplify the subtraction operation and for  logical manipulation. Simplifying operations leads lo simpler, less expensive circuits to implement the operations
 - there are two types of complements for each base r system : the radix complement and the diminished radix complement --> r's complement and the (r-1)'s complement
 - thus , 1's and 2's complement for binary numbers and 9's and 10's complement for the decimal numbers
 
 
 Radix Complement :
 ----
-- the r's complement of an n digit number in N in base r is given by r^n - N , N!=0 and is O for N=0 
+- the r's complement of an n digit number in N in base r is given by r^n - N , N !=0 and is O for n=0 
 - we note that the r's complement is obtained by adding 1 to the (r - 1)'s complement
 
 - a short trick ( img 4 )
+
 
 Subtraction with complements : 
 ----
