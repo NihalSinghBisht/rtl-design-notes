@@ -71,5 +71,16 @@ Signed Binary Numbers :
    - ![image](https://github.com/NihalSinghBisht/rtl-design-notes/blob/main/01-Digital-Electronics/Digital%20Systems%20and%20Binary%20Numbers/image8.png?raw=true)
 
 
+Binary Codes 
+----
+If we inspect the bits of a computer at random, we will find that most of the time they
+represent some type of coded information rather than binary numbers.
+
+BCD CODE 
+----
+image 9 
+
+the table shows that for one decimal digit we require 4 bit code , for k decimal digits we'll require 4k bits in BCD 
+image 10 
 
 
