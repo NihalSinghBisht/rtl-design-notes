@@ -84,3 +84,30 @@ the table shows that for one decimal digit we require 4 bit code , for k decimal
 image 10 
 
 
+Gray Code 
+------
+- The advantage of the Gray code over the straight binary number
+  sequence is that only one bit in the code group changes in going from one number to the next
+- For eg in going from 7 - 8 (gray code changes from 0100 to 1100 changing only the first bit , the other 3 bits remain the same)
+
+
+ASCII Character Code 
+----
+- The standard binary code for the alphanumeric characters is the American Standard Code
+  for lnformation Interchange (ASCII).
+- It uses 7bits to code 128 characters
+
+Error Detecting Code 
+----
+- To detect errors in data communication and processing, an eighth bit is sometimes added to the
+ASCII character to indicate its parity
+- The parity bit is helpful in detecting errors during the transmission of information from one location to another - this function is handled by generating an even parity bit at the sending end for each character , now the 8 bit characters that include parity bits are transmitted to their destination - the parity bit is checked at the receiving end - but the even combination of errors goes undetected 
+
+
+Binary Storage and Registers 
+-----
+- Registers
+   
+
+  
+
