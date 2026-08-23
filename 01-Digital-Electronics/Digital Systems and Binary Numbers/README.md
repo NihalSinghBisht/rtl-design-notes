@@ -107,6 +107,16 @@ ASCII character to indicate its parity
 Binary Storage and Registers 
 -----
 - Registers
+   - collection of latches is known as a register (a register stores multiple bits)
+   - composed of logic gates that are interconnected in a desired manner
+ 
+
+Register Transfer 
+-----
+- An operation that consists of transfer of binary information from one set of registers to another set of registers
+
+
+
    
 
   
