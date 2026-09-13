@@ -9,6 +9,15 @@ FPGA - FIELD PROGRAMMABLE GATE ARRAY
   - img ( connection bw CLBs )
   - the only downside is that every switch adds capacitance to wires which slows down how fast signals can pass through them
 
-DSP
+DSP - Digital Signal Processing 
 -----
+ - Dedicated math functions
+ - we can do math with the CLBS but theyre comparatively slow!
 
+BRAM
+----
+- BLOCK RAM
+
+IO Buffers
+---
+- dedicated hardware circuits at the physical pins that connect internal core logic to    external components.
